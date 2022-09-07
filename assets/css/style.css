@@ -320,6 +320,9 @@ header .navbar ul li a:hover{
 
 /* hero media queries starts*/
 @media(max-width:450px){
+    .image .tilt{
+        padding-top: 35%;
+    }    
   .home .btn{
     margin: 4rem 0;
   }
