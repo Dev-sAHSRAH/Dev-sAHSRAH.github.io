@@ -320,9 +320,6 @@ header .navbar ul li a:hover{
 
 /* hero media queries starts*/
 @media(max-width:450px){
-    .image .tilt{
-        padding-top: 35%;
-    }    
   .home .btn{
     margin: 4rem 0;
   }
@@ -330,7 +327,7 @@ header .navbar ul li a:hover{
     margin-top: 12rem;
   }
   .home .image img{
-    margin-top: -12rem;
+    margin-top: 3rem;
   }
   .home .content p {
     font-size: 2.2rem;
